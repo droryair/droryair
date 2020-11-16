@@ -10,7 +10,7 @@ I'm a 22 years old woman who's passionate about Full Stack developing and always
 - :computer:The Technologies I use:
 
 <img src="https://www.logolynx.com/images/logolynx/e1/e12c387bd8ebccf18a4741b4b83a6d71.png" alt="React Logo"  height="50"> <img src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e1f9804b36ff7196d4b72a0_logo-react-native-tech.png" alt="React Native Logo"  height="45">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5N472VlU--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://repository-images.githubusercontent.com/65750241/79017180-d4ce-11e9-9955-3f0a7be00c7a" alt="Expo Logo"  height="50">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5N472VlU--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://repository-images.githubusercontent.com/65750241/79017180-d4ce-11e9-9955-3f0a7be00c7a" alt="Expo Logo"  height="60">
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png" alt="Node JS Logo"  height="50">
 <img src="https://www.vitoshacademy.com/wp-content/uploads/2015/04/JS.png" alt="JS Logo"  height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo"  height="50">
