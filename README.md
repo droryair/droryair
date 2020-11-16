@@ -16,12 +16,12 @@ I'm a 22 years old woman who's passionate about Full Stack developing and always
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo"  height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo"  height="50">
 <img src="https://miro.medium.com/max/3840/1*z3V7CxdSbGGdOMU0K0X7zg.png" alt="Material UI Logo"  height="50">
-<img src="https://raw.githubusercontent.com/angular-ui/angular-ui.github.com/master/logo/UI_Shield_Bootstrap.png" alt="Bootstrap UI Logo"  height="50">
-<img src="https://mobx.js.org/img/mobx.png" alt="Mobx Logo"  height="50">
+<img src="https://raw.githubusercontent.com/angular-ui/angular-ui.github.com/master/logo/UI_Shield_Bootstrap.png" alt="Bootstrap UI Logo"  height="47">
+<img src="https://mobx.js.org/img/mobx.png" alt="Mobx Logo"  height="45">
 <img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png" alt="MongoDB Logo"  height="50">
 <img src="https://markdpatton.files.wordpress.com/2020/03/azuresqllogo.png" alt="SQL Logo"  height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Godot_logo.svg/1200px-Godot_logo.svg.png" alt="Godot Logo"  height="50">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--uSnYxWbN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://external-content.duckduckgo.com/iu/%3Fu%3Dhttps%253A%252F%252Fyourdevops.org%252Fwp-content%252Fuploads%252F2019%252F03%252Fpython3.jpg%26f%3D1%26nofb%3D1" alt="Python Logo"  height="50">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--uSnYxWbN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://external-content.duckduckgo.com/iu/%3Fu%3Dhttps%253A%252F%252Fyourdevops.org%252Fwp-content%252Fuploads%252F2019%252F03%252Fpython3.jpg%26f%3D1%26nofb%3D1" alt="Python Logo"  height="45">
 
 
 - 📫 How to reach me: drorya2324@gmail.com
