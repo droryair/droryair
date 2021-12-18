@@ -63,7 +63,7 @@ I'm a 23 years old woman who's passionate about Full Stack developing and QA Aut
   </kbd>
 </kbd>
 
-- 📫 How to reach me: drorya2324@gmail.com
+- 📫 How to reach me: [Email me](drorya2324@gmail.com) or [My Linkedin](https://www.linkedin.com/in/dror-yair-b4b4361b3/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Elephants are gentle enough to lift a single peanut with their trunk...
 
