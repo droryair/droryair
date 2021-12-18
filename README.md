@@ -52,6 +52,12 @@ I'm a 22 years old woman who's passionate about Full Stack developing and always
   <kbd>
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--uSnYxWbN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://external-content.duckduckgo.com/iu/%3Fu%3Dhttps%253A%252F%252Fyourdevops.org%252Fwp-content%252Fuploads%252F2019%252F03%252Fpython3.jpg%26f%3D1%26nofb%3D1" alt="Python Logo"  height="45">
       </kbd>
+     <kbd>
+ <img src="https://blog.testproject.io/wp-content/uploads/2020/06/Pyunit.png" alt="Unittest Logo"  height="50">
+   </kbd>
+   <kbd>
+ <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.xmxblog.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fselenium.jpg&f=1&nofb=1" alt="Selenium Logo"  height="50">
+   </kbd>
 </kbd>
 
 - 📫 How to reach me: drorya2324@gmail.com
