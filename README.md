@@ -58,6 +58,9 @@ I'm a 23 years old woman who's passionate about Full Stack developing and QA Aut
    <kbd>
  <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.xmxblog.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fselenium.jpg&f=1&nofb=1" alt="Selenium Logo"  height="50">
    </kbd>
+  <kbd>
+  <img alt="Openpyxl Logo" src="https://openpyxl.readthedocs.io/en/stable/_static/logo.png" height="35">
+  </kbd>
 </kbd>
 
 - 📫 How to reach me: drorya2324@gmail.com
