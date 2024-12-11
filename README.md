@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm a 23 years old woman who's passionate about Full Stack developing and QA Automation testing, and always enthusiastic about learning new technologies.
+I'm a 26 years old who's passionate about Full Stack developing, QA Automation testing, and always enthusiastic about learning new technologies.
 
 
 - :computer:The Technologies I use:
