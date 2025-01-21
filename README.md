@@ -8,7 +8,7 @@ I'm a 26 years old who's passionate about Full Stack developing, QA Automation t
 
 
 - :computer:The Technologies I use:
-
+<kbd>
   <kbd>
     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png" alt="Python Logo" hight="50">
   </kbd>
@@ -23,7 +23,7 @@ I'm a 26 years old who's passionate about Full Stack developing, QA Automation t
   <kbd>
     <img src = "https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="Javascript Logo" hight="50">
   </kbd>
-
+</kbd>
   <kbd>
     <img src = "" alt="" hight="50">
   </kbd>
