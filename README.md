@@ -39,7 +39,6 @@ I'm a 26 years old who's passionate about Full Stack developing, QA Automation t
   </kbd>
   <kbd>
 <img src="https://mobx.js.org/img/mobx.png" alt="Mobx Logo"  height="45">
-  </kbd>
   <kbd>
 <img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png" alt="MongoDB Logo"  height="50">
   </kbd>
@@ -64,6 +63,5 @@ I'm a 26 years old who's passionate about Full Stack developing, QA Automation t
 </kbd>
 
 - 📫 How to reach me: [Email me](drorya2324@gmail.com) or [My Linkedin](https://www.linkedin.com/in/dror-yair-b4b4361b3/)
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: Elephants are gentle enough to lift a single peanut with their trunk...
 
